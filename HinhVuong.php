@@ -1,5 +1,5 @@
 <?php
-class Square
+class HinhVuong
 {
    public $width;
    public function __construct($width)

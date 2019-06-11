@@ -2,7 +2,7 @@
 include_once 'Resizeable.php';
 include_once 'Circles.php';
 include_once 'Rectangle.php';
-include_once 'Square.php';
+include_once 'HinhVuong.php';
 include_once 'ResizeCircle.php';
 include_once 'ResizeRectangle.php';
 include_once 'ResizeSquare.php';
